@@ -1,4 +1,4 @@
-### Web-CadastroAlunos
+# Web-CadastroAlunos
 
 - Criar um projeto (aplicativo Java Web simples);
 - Cadastro de Aluno vai ser composto por: (id, nome e idade);
@@ -8,7 +8,7 @@
 - Definições de variáveis dentro do método processReques;
 - Criaremos definições de receber esses parâmetros.
 
-# Livro guia de estudo: Desenvolvendo Aplicações com JSP, Servlets, JavaServer Faces, Hibernate, EJB 3 Persistence e Ajax.
+### Livro guia de estudo: Desenvolvendo Aplicações com JSP, Servlets, JavaServer Faces, Hibernate, EJB 3 Persistence e Ajax.
 Resumo:
 - Os fundamentos do desenvolvimento Web com Java, como instalação e configuração de um contêiner Servlet;
 - Desenvolvimento com Servlets, criação de cokies e sessões, enviar e receber dados, assim como publicá-los;
